@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="google_app_id">1:583936144595:android:3766a82384b6830ef35026</string>
-    <string name="firebase_database_url">https://flash-chat-b45fd.firebaseio.com</string>
-    <string name="gcm_defaultSenderId">583936144595</string>
-    <string name="google_api_key">AIzaSyAcYP2nZX-f8zmjXOu_jlvh4ysZcXHphwM</string>
-    <string name="firebase_storage_bucket">flash-chat-b45fd.appspot.com</string>
-</resources>
