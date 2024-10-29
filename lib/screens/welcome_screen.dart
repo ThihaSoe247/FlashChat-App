@@ -18,6 +18,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     with SingleTickerProviderStateMixin {
   late AnimationController controller;
   late Animation animation;
+
   @override
   void initState() {
     // TODO: implement initState
